@@ -1,14 +1,14 @@
 /* Hide the form title */
 #form_title {
-    display: none;
+    display: none !important;
 }
 
 /* Hide the form description */
 #form_description {
-    display: none;
+    display: none !important;
 }
 
 /* Hide the submit button */
 input[type="submit"] {
-    display: none;
+    display: none !important;
 }
