@@ -1,0 +1,14 @@
+/* Hide the form title */
+#form_title {
+    display: none;
+}
+
+/* Hide the form description */
+#form_description {
+    display: none;
+}
+
+/* Hide the submit button */
+input[type="submit"] {
+    display: none;
+}
